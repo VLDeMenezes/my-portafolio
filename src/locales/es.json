@@ -1,0 +1,16 @@
+{
+  "welcome": "Hola! Dejame presentarme...",
+  "me": "Este soy yo, un desarrollador web, y tambien un abogado... Si parecen no llevarse de la mano pero tu sabes que si...",
+  "me+": "Autodidacta, amante del FrontEnd, pero programador full stack",
+  "info": "Soy Argentino, así que puedes verme como trabajador remoto con gran carisma, realmente interesado en la eficiencia y simpleza de las cosas",
+  "knoMore": "¿Quieres saber mas? scrollea",
+  "projects": "PROJECTOS",
+  "tecs": "TECNOLOGIAS",
+  "contact": "CONTACTO",
+  "section1": "Mis projectos",
+  "sectionText1": "Si quieres en una entrevista podré hablarte de ellos...",
+  "section2": "Tecnologias que utilizo",
+  "sectionText2": "Estas son algunas de las tecnologias que utilizo para crear mis projectos, pero creeme puedo aprender muchas mas!",
+  "section3": "Contactame",
+  "sectionText3": "No tengas timidez, contactame que no te arrepentiras!"
+}
